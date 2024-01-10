@@ -25,7 +25,7 @@ This project was born out of a need identified during my undergraduate studies i
 - Potential integration with tools like ChatGPT for innovative music creation for social media content.
 
 ### Final Demo Video
-- [Click Here](#) for the final demonstration of the ALAPANAMAC app.
+- [Click Here](https://youtu.be/dcpAxWSP8OI) for the final demonstration of the ALAPANAMAC app.
 
 ---
 
