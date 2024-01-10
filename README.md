@@ -32,8 +32,8 @@ This project was born out of a need identified during my undergraduate studies i
 ### Contact Information
 Nawaraj Khatri
 Student No: 202308669
-[Email](#)
-[LinkedIn](#)
+nawaraj@nrk.com.np
+LinkedIn: @hellonrk
 
 ---
 
